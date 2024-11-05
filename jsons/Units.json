@@ -11,6 +11,6 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"hurryCostModifier": 42,
-		"attackSound": "metalhit"
+		"attackSound": "gunshot"
 	}
 ]
