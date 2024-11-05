@@ -14,13 +14,13 @@
 		"attackSound": "gunshot"
 	{
 	},
-	        "name": "Musketeer",
+	        "name": "Minuteman",
 		"unitType": "Sword",
 		"uniqueTo": "France",
 		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 28,
-		"cost": 100,
+		"strength": 25,
+		"cost": 92,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
