@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Musketeer",
+		"name": "Minuteman",
 		"unitType": "Sword",
 		"uniqueTo": "England",
 		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 28,
-		"cost": 100,
+		"strength": 25,
+		"cost": 92,
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"hurryCostModifier": 42,
+		"hurryCostModifier": 40,
 		"attackSound": "gunshot"
 	},
 	{
