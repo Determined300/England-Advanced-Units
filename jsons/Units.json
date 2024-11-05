@@ -12,5 +12,19 @@
 		"upgradesTo": "Rifleman",
 		"hurryCostModifier": 42,
 		"attackSound": "gunshot"
+	{
+	},
+	        "name": "Musketeer",
+		"unitType": "Sword",
+		"uniqueTo": "France",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 28,
+		"cost": 100,
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Rifleman",
+		"hurryCostModifier": 40,
+		"attackSound": "gunshot"
 	}
 ]
