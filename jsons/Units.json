@@ -7,8 +7,8 @@
 		"movement": 2,
 		"strength": 28,
 		"cost": 100,
-		"requiredTech": "Civil Service",
-		"obsoleteTech": "Metallurgy",
+		"requiredTech": "Gunpowder",
+		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"hurryCostModifier": 42,
 		"attackSound": "metalhit"
