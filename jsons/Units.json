@@ -11,6 +11,7 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"hurryCostModifier": 40,
+		"promotions": ["Drill I","Ignores terrain cost"],
 		"attackSound": "gunshot"
 	},
 	{
